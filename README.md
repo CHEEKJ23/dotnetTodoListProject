@@ -26,15 +26,3 @@ It includes a backend built with **ASP.NET Core Web API** and a frontend made wi
 
 ---
 
-## ⚙️ How to Run the Project
-
-### Backend (API)
-```bash
-cd TodoListApi
-dotnet restore
-dotnet build
-dotnet run
-
-### 1️Frontend (React)
-```bash
-npm start
